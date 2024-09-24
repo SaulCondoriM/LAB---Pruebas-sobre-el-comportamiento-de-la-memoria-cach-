@@ -12,5 +12,3 @@
 
 
 ## Evaluación de desempeño usando valgrind y kcachegrind
-
-## Conclusiones Generales
